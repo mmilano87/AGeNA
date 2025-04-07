@@ -1,4 +1,4 @@
-# aging_Pd
+# AGeNA
 # Gene Expression Trend & Network Analysis with GO Annotations
 
 This Python script performs a full gene expression analysis pipeline starting from GTEx-like gene expression data. It detects genes with age-related trends, performs statistical tests, builds interaction networks, and retrieves Gene Ontology Biological Process (GO:BP) annotations using STRING.
